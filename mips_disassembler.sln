@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mips_disassembler", "mips_disassembler.vcxproj", "{83C4B312-048F-4812-B5F5-972E5CA9DBFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83C4B312-048F-4812-B5F5-972E5CA9DBFE}.Debug|x64.ActiveCfg = Debug|x64
+		{83C4B312-048F-4812-B5F5-972E5CA9DBFE}.Debug|x64.Build.0 = Debug|x64
+		{83C4B312-048F-4812-B5F5-972E5CA9DBFE}.Debug|x86.ActiveCfg = Debug|Win32
+		{83C4B312-048F-4812-B5F5-972E5CA9DBFE}.Debug|x86.Build.0 = Debug|Win32
+		{83C4B312-048F-4812-B5F5-972E5CA9DBFE}.Release|x64.ActiveCfg = Release|x64
+		{83C4B312-048F-4812-B5F5-972E5CA9DBFE}.Release|x64.Build.0 = Release|x64
+		{83C4B312-048F-4812-B5F5-972E5CA9DBFE}.Release|x86.ActiveCfg = Release|Win32
+		{83C4B312-048F-4812-B5F5-972E5CA9DBFE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88C75F6E-E015-4134-9C65-B78F71B85A80}
+	EndGlobalSection
+EndGlobal
